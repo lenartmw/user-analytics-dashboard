@@ -1,4 +1,5 @@
 # user-analytics-dashboard
+The link is located in the About section of the repository. 
 ## User Metric Selection and Filters
 The dashboard provides comprehensive insights into Netflix user behaviors and trends and was designed to guide data-driven decisions to enhance the service. It aggregates and visualizes user data, offering a range of metrics and filters to select from.
 
